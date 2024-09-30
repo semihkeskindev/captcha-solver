@@ -1,6 +1,7 @@
 ## Gereksinimler
 
 - Nodejs 20.17.0
+- Tesseract (For more information: https://tesseract-ocr.github.io/tessdoc/Installation.html)
 
 ## Kurulum
 
